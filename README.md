@@ -1,8 +1,15 @@
-<div id="badges">
-  <a href="[your-linkedin-UR](https://www.linkedin.com/in/yukozlova/)">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+<div>
+<div id="header">
+  <img src="https://media.tenor.com/NZqiUoAnAFsAAAAC/cat-computer.gif" width="200"/>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/yukozlova/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </div>
 </div>
+</div>
+
+
 
 <!--
 **jkozlova/jkozlova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
